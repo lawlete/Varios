@@ -1,7 +1,3 @@
-Aquí tienes un archivo `README.md` basado en el código proporcionado:
-
----
-
 # Procesamiento de Lenguaje Natural (NLP) con Hugging Face Transformers
 
 Este proyecto demuestra cómo utilizar Python y la librería **Hugging Face Transformers** para entrenar un modelo de clasificación de texto. El objetivo es clasificar reseñas de películas como positivas o negativas utilizando el conjunto de datos **IMDB**.
@@ -148,6 +144,3 @@ print(df)
 ## Resultados
 El modelo entrenado debería ser capaz de clasificar reseñas como positivas o negativas con una precisión razonable. Puedes mejorar el rendimiento utilizando un conjunto de datos más grande o ajustando los hiperparámetros.
 
----
-
-Este `README.md` proporciona una guía clara y estructurada para reproducir el proyecto. ¡Espero que te sea útil!
