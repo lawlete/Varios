@@ -1,4 +1,4 @@
-# Procesamiento de Lenguaje Natural Versio 2
+# Procesamiento de Lenguaje Natural Version 2
 
 **Ejercicio: Procesamiento de Lenguaje Natural (NLP)**
 
