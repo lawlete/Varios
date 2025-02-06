@@ -1,7 +1,3 @@
-¡Gracias por compartir el contenido del archivo `.py`! A continuación, te proporcionaré un README adecuado para tu proyecto en Google Colab. Este README explicará el propósito del script, cómo configurar el entorno, y cómo ejecutarlo.
-
----
-
 # Resume Artículos Grandes
 
 Este script de Python, diseñado para ejecutarse en Google Colab, utiliza un modelo de lenguaje grande (LLM) y la biblioteca `langchain` para resumir artículos extensos sobre tecnologías e IA. El script carga un artículo desde una URL, lo divide en fragmentos manejables, genera resúmenes parciales de cada fragmento y finalmente combina estos resúmenes en un resumen coherente y completo.
